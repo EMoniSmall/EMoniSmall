@@ -2,7 +2,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Azure Crash Course: Useful Things You Should Know](https://github.com/EMoniSmall/configure-ad)
+  - [Azure Crash Course: Useful Things You Should Know](https://github.com/EMoniSmall/azurecrashcourse)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EMoniSmall/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EMoniSmall/azure-network-protocols)
     
