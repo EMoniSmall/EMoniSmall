@@ -3,7 +3,7 @@
 
 - <b>Microsoft Azure</b> ☁
   - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EMoniSmall/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EMoniSmall/ad-configure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EMoniSmall/azure-network-protocols)
     
 - <b>osTicket (Help Desk Ticketing System)</b>🦘
