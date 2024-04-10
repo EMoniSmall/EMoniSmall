@@ -3,6 +3,7 @@
 
 - <b>Microsoft Azure</b> ☁
   - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
+  - [Exploring and Observing Different Traffic Types in a Virtual Network](https://github.com/EMoniSmall/VMActivities)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EMoniSmall/ad-configure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EMoniSmall/azure-network-protocols)
     
