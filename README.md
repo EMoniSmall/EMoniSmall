@@ -5,6 +5,12 @@
   - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
   - [Exploring and Observing Different Traffic Types in a Virtual Network](https://github.com/EMoniSmall/VMActivities)
   - [Active Directory Configuration within Azure VMs](https://github.com/EMoniSmall/ad-configure)
+    
+- <b>Future Projects ...</b> 🔮
+  - osTicket Tutorial (Help Desk Ticketing System)
+      - Pre-Reqs and Installation
+      - Post-Installation Configuration
+      - Ticket Lifecycles
 
 <h2>🤳Connect with me:</h2>
 
