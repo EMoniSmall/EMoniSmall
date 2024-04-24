@@ -7,6 +7,7 @@
   - [Active Directory Configuration within Azure VMs](https://github.com/EMoniSmall/ad-configure)
     
 - <b>Future Projects ...</b> 🔮
+  - Network Security Groups and Inspecting Network Protocols
   - osTicket Tutorial (Help Desk Ticketing System) 🦘
       - Pre-Reqs and Installation
       - Post-Installation Configuration
