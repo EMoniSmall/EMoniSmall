@@ -6,9 +6,9 @@
   - [Exploring and Observing Different Traffic Types in a Virtual Network](https://github.com/EMoniSmall/VMActivities)
   - [Active Directory Configuration within Azure VMs](https://github.com/EMoniSmall/ad-configure)
   - [Understanding DNS](https://github.com/EMoniSmall/DNS)
+  - [Network File Sharing and Security Groups](https://github.com/EMoniSmall/NetworkFilesConfig)
     
 - <b>Future Projects ...</b> 🔮
-  - Network Security Groups and Inspecting Network Protocols
   - osTicket Tutorial (Help Desk Ticketing System) 🦘
       - Pre-Reqs and Installation
       - Post-Installation Configuration
