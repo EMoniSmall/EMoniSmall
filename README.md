@@ -5,6 +5,7 @@
   - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
   - [Exploring and Observing Different Traffic Types in a Virtual Network](https://github.com/EMoniSmall/VMActivities)
   - [Active Directory Configuration within Azure VMs](https://github.com/EMoniSmall/ad-configure)
+  - [Understanding DNS](https://github.com/EMoniSmall/DNS)
     
 - <b>Future Projects ...</b> 🔮
   - Network Security Groups and Inspecting Network Protocols
