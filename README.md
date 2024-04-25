@@ -2,7 +2,7 @@
 <h2> 👩🏻‍💻Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b> ☁
-  - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
+  - [Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
   - [Virtual Machine Networks and Network Protocols](https://github.com/EMoniSmall/VMActivities)
 
 - <b>Active Directory</b> 🎯
