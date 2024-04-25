@@ -5,7 +5,7 @@
   - [The Limitless Blue: Microsoft Azure Crash Course](https://github.com/EMoniSmall/azurecrashcourse)
   - [Virtual Machine Networks and Network Protocols](https://github.com/EMoniSmall/VMActivities)
 
-- <b>Active Directory</b>
+- <b>Active Directory</b> 🎯
   - [Active Directory Configuration within Azure VMs](https://github.com/EMoniSmall/ad-configure)
   - [Understanding DNS](https://github.com/EMoniSmall/DNS)
   - [Network File Sharing and Security Groups](https://github.com/EMoniSmall/NetworkFilesConfig)
