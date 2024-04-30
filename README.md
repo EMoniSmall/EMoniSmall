@@ -13,8 +13,7 @@
 - <b> VPNs 😎</b>
   - [Virtual Networks: Setting Up and Using VPNs](https://github.com/EMoniSmall/VPNSetup)
   
-- <b>Future Projects ...</b> 🔮
-  - osTicket Tutorial (Help Desk Ticketing System) 🦘
+ - <b> osTicket Tutorial (Help Desk Ticketing System) <b> 🦘
       - Pre-Reqs and Installation
       - Post-Installation Configuration
       - Ticket Lifecycles
