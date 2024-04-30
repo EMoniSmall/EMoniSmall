@@ -14,7 +14,7 @@
   - [Virtual Networks: Setting Up and Using VPNs](https://github.com/EMoniSmall/VPNSetup)
   
  - <b> osTicket Tutorial (Help Desk Ticketing System) <b> 🦘
-      - Pre-Reqs and Installation
+      - [Pre-Reqs and Installation](https://github.com/EMoniSmall/osInstall)
       - Post-Installation Configuration
       - Ticket Lifecycles
 
