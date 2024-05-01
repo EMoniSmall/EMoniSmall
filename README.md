@@ -15,7 +15,7 @@
   
  - <b> osTicket Tutorial (Help Desk Ticketing System) <b> 🦘
       - [Pre-Reqs and Installation](https://github.com/EMoniSmall/osInstall)
-      - Post-Installation Configuration(https://github.com/EMoniSmall/osPostConfig)
+      - [Post-Installation Configuration](https://github.com/EMoniSmall/osPostConfig)
       - Ticket Lifecycles
 
 <h2>🤳Connect with me:</h2>
